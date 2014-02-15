@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -rf /var/services/web/phpMyBackupPro
+mv /var/packages/phpMyBackupPro/target/phpMyBackupPro /var/services/web/phpMyBackupPro
+
+exit 0

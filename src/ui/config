@@ -1,0 +1,15 @@
+{
+	".url": {
+		"SYNO.SDS.phpMyBackupPro": {
+			"type": "url",
+			"allUsers": true,
+			"title": "app:app_name",
+			"desc": "app:description",
+			"icon": "images/phpMyBackupPro_{0}.png",
+			"texts": "texts",
+			"protocol": "http",
+			"url": "/phpMyBackupPro/",
+			"port": "80"
+		}
+	}
+}
